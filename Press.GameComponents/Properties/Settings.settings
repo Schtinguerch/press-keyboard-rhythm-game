@@ -5,5 +5,17 @@
     <Setting Name="ShowCircleTime" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">1000</Value>
     </Setting>
+    <Setting Name="OpenedMapFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Cases\Press game maps\Test map\MapBehavior.press</Value>
+    </Setting>
+    <Setting Name="MusicVolume" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="CircleRadius" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="TapperingAuraRadius" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
